@@ -1,0 +1,18 @@
+body {
+  background-color: #3b609a;
+}
+
+#Hora_Maquina {
+  font-size: 50px;
+  text-align: center;
+}
+
+#Hora_Servidor {
+  font-size: 50px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
